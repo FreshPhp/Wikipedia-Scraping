@@ -1,13 +1,14 @@
 {
-  "name": "webscraping",
+  "name": "Web-Scraping",
   "version": "1.0.0",
-  "description": "",
+  "description": "Um web scraping usando node que pega os filmes ganhadores de Oscar de cada ano.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
   },
   "keywords": [],
-  "author": "",
+  "author": "FreshPhp",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.1.2",
